@@ -29,4 +29,4 @@ It allows users to register, log in, and manage their tasks with CRUD functional
 
 ---
 
-## 📂 Project Structure
+
